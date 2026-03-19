@@ -1,2 +1,3 @@
-# modern-booking-system-wzxb
-A reservation and booking system for modern development workflows
+# Modern Booking System Wzxb
+
+A reservation and booking system for modern development workflows.
